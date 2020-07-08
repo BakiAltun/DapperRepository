@@ -2,8 +2,9 @@
 Dapper generic repository with unit of work
 
 
-*** Preparing Documentation *** 
+If you need documentation please contact me.
 
+bakialtun08@gmail.com
 
 Smaller Codes
 
